@@ -1,6 +1,6 @@
 # EPC Live Score System
 
-Sistem pencatatan skor dan leaderboard realtime untuk Engineering Physics Challenge (EPC). Dibangun dengan Next.js 15 dan Supabase. Dokumen ini menjelaskan seluruh fitur aplikasi beserta cara penggunaannya, mulai dari login, mengelola tim, mencatat skor, hingga mereset data.
+Sistem pencatatan skor dan leaderboard realtime untuk EPC. Dibangun dengan Next.js 15 dan Supabase. Dokumen ini menjelaskan seluruh fitur aplikasi beserta cara penggunaannya, mulai dari login, mengelola tim, mencatat skor, hingga mereset data.
 
 ---
 
